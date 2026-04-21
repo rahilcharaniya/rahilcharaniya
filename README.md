@@ -11,7 +11,7 @@
 
 ## 🚀 Projects
 ### Business Website (Live)
-- Built a multi-page responsive website for a local business  
+- Building a multi-page responsive website for a local business  
 - Deployed using GitHub Pages  
 
 🔗 Live: https://rahilcharaniya.github.io/Royal-Machine-Tools-Web/  
