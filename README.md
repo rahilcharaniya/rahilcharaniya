@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rahil 👋
 
-<!--
-**rahilcharaniya/rahilcharaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Data Science Student  
+💻 Web Developer | Graphic Designer | Beginner Python Programmer  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML, CSS
+- Python (basic)
+- C / C++
+- Graphic Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### Business Website (Live)
+- Built a multi-page responsive website for a local business  
+- Deployed using GitHub Pages  
+
+🔗 Live: https://rahilcharaniya.github.io/Royal-Machine-Tools-Web/  
+
+## 📈 Currently Learning
+- Advanced Python
+- Data Analysis
+- UI/UX Improvements
+
+## 📫 Contact
+- Email: [rahilcharania1786@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/rahil-charania-43b494379/]
